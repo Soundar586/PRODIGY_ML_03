@@ -1,8 +1,11 @@
 opencv-python
 numpy
 scikit-learn
-Svm classifier
+import os
+matplot Library
+pickle
+random
+Support vector Machine from the Scikit Learn
 Dataset
 Jupyter Notebook or Vs code
-
 
